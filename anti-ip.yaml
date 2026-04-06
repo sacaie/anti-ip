@@ -1,6 +1,7 @@
 // 规则
 const newRules = [
   // 自定义规则
+"DOMAIM-SUFFIX,ssl.kohsocialapp.qq.com,E-IX",
 "DOMAIN,httpdns.bilivideo.com,REJECT",
 "IP-CIDR,47.101.175.206/32,REJECT,no-resolve",
 "IP-CIDR,47.100.123.169/32,REJECT,no-resolve",
