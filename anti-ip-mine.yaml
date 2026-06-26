@@ -77,3 +77,11 @@ payload:
 - IP-CIDR,203.205.220.62/32,no-resolve
 - DOMAIN-SUFFIX,soulapp.cn
 - DOMAIN-SUFFIX,ssl.kohsocialapp.qq.com
+- DOMAIN-SUFFIX,media-service.soulapp.cn,DIRECT
+- DOMAIN-SUFFIX,china-img.soulapp.cn,DIRECT
+- DOMAIN-SUFFIX,img.soulapp.cn,DIRECT
+- DOMAIN-SUFFIX,aegis-cdn.soulapp.cn,DIRECT
+- DOMAIN-SUFFIX,api-pay.soulapp.cn,DIRECT
+- DOMAIN-SUFFIX,api-chat.soulapp.cn,DIRECT
+- DOMAIN-SUFFIX,chat-live.soulapp.cn,DIRECT
+    - DOMAIN-SUFFIX,group-message.soulapp.cn,DIRECT
