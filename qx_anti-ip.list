@@ -1,6 +1,5 @@
 host-suffix,xiaohongshu.com,RED
 host-keyword,xiaohongshu,RED
-
 ip-cidr,114.55.236.88/32,RED,no-resolve
 ip-cidr,47.97.64.97/32,RED,no-resolve
 ip-cidr,47.97.66.48/32,RED,no-resolve
