@@ -1,7 +1,5 @@
-# ======= 小红书 ======= #
 - DOMAIN-SUFFIX,xiaohongshu.com
 - DOMAIN-KEYWORD,xiaohongshu
-# edith.xiaohongshu.com全球解析结果
 - IP-CIDR,155.102.176.87/32,no-resolve
 - IP-CIDR,155.102.176.84/32,no-resolve
 - IP-CIDR,155.102.176.88/32,no-resolve
