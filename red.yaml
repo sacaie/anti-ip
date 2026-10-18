@@ -1,3 +1,4 @@
+payload:
 - DOMAIN-SUFFIX,xiaohongshu.com
 - DOMAIN-KEYWORD,xiaohongshu
 - IP-CIDR,155.102.176.87/32,no-resolve
